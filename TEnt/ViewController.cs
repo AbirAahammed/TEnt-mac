@@ -30,5 +30,6 @@ namespace TEnt
                 // Update the view, if already loaded.
             }
         }
+
     }
 }
